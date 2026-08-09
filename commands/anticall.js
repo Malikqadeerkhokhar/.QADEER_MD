@@ -1,5 +1,5 @@
 /**
- * 👑 AWAIS MAYO ULTRA-BOT - ANTI-CALL SHIELD MODULE
+ * 👑 QADEER_MD- ANTI-CALL SHIELD MODULE
  * ⚡ Feature: Automated Structural Incoming Call Rejecter & Firewall
  */
 
@@ -19,7 +19,7 @@ async function anticallCommand(sock, from, msg, isAdmin, botData, saveBotData, u
         await sock.sendMessage(from, { react: { text: '🛡️', key: msg.key } });
         await sock.sendMessage(from, { 
             text: `╭━━━〔 🛡️ *𝗙𝗜𝗥𝗘𝗪𝗔𝗟𝗟 𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗘𝗗* 〕━━━╮\n\n` +
-                  `🤖 *𝗕𝗢𝗧:* 𝗔𝗪𝗔𝗜𝗦 𝗠𝗔𝗬𝗢 𝗨𝗟𝗧𝗥𝗔-𝗕𝗢𝗧\n` +
+                  `🤖 *𝗕𝗢𝗧:* QADEER_MD 𝗨𝗟𝗧𝗥𝗔-𝗕𝗢𝗧\n` +
                   `⚙️ *Module:* Anti-Call Shield V2\n` +
                   `⚡ *Status:* Operational [100% Active]\n\n` +
                   `💀 _All direct incoming audio/video calls will be auto-rejected by the network matrix layers._\n\n` +
@@ -34,7 +34,7 @@ async function anticallCommand(sock, from, msg, isAdmin, botData, saveBotData, u
         await sock.sendMessage(from, { react: { text: '⚠️', key: msg.key } });
         await sock.sendMessage(from, { 
             text: `╭━━━〔 ⚠️ *𝗙𝗜𝗥𝗘𝗪𝗔𝗟𝗟 𝗗𝗘𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗘𝗗* 〕━━━╮\n\n` +
-                  `🤖 *𝗕𝗢𝗧:* 𝗔𝗪𝗔𝗜𝗦 𝗠𝗔𝗬𝗢 𝗨𝗟𝗧𝗥𝗔-𝗕𝗢𝗧\n` +
+                  `🤖 *𝗕𝗢𝗧:* QADEER-MD 𝗨𝗟𝗧𝗥𝗔-𝗕𝗢𝗧\n` +
                   `⚙️ *Module:* Anti-Call Shield V2\n` +
                   `🚨 *Status:* Disabled [Standby Mode]\n\n` +
                   `⚠️ _Warning: The network firewall is down. Incoming calls will pass through unfiltered._\n\n` +

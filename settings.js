@@ -102,10 +102,10 @@ Powered By QADEER_MD Gang
     // This block is required on every bot generated from
     // Awais Mini Bot and is not part of the user configuration.
     // ==============================
-    _awaisNetwork: {
+    _qadeerNetwork: {
         brand: "QADEER-MD",
         mandatoryChannel: "https://whatsapp.com/channel/0029VbDY5cN9Gv7dpiRdsh3B",
-        createOwnBotSite: "https://awaisminibot.railway.app"
+        createOwnBotSite: "https://qadeerminibot.railway.app"
     }
 
 };

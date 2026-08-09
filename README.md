@@ -52,7 +52,7 @@ Professional WhatsApp Automation Tool with improved two-stage dashboard.
 
 ### Step 1: Initial Screen - Mobile Pairing
 1. You will see only the mobile number input field
-2. Enter your WhatsApp mobile number (e.g., 923052062145)
+2. Enter your WhatsApp mobile number (e.g., 923423317899)
 3. Click "GENERATE PAIR CODE"
 4. Copy the 8-digit code from the console
 5. Open WhatsApp > Settings > Linked Devices > Link with phone number
@@ -128,10 +128,10 @@ Please reply if you receive this.
 
 ## Branding
 
-Powered by **OLD-STUDIO**
+Powered by QADEER-MD****
 
-[Join WhatsApp Channel](https://whatsapp.com/channel/0029VavHzv259PwTIz1XxJ09)
+[Join WhatsApp Channel](https://whatsapp.com/channel/0029VbDY5cN9Gv7dpiRdsh3B)
 
 ## License
 
-For OLD-STUDIO use only.
+For QADEER-MD use only.
